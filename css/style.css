@@ -1,0 +1,12 @@
+header {
+    background-color: #2196F3;
+    background-image: url('../img/pattern.png');
+    background-position: top center;
+    background-size: auto 200px;
+    height: 100px;
+}
+
+#logo {
+    margin-top: 40px;
+    width: 200px;
+}
