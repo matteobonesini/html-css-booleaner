@@ -9,3 +9,8 @@ Come l'esercizio scorso e d'ora in avanti sempre, faremo questo:
 Attenzione: per i nomi dei file usate sempre lettere minuscole e trattini al posto degli spazi :);
 3. All'interno della cartella del repo, create una sottocartella img nella quale inserirete le immagini necessarie.
 4. Sempre nella cartella repo create la cartella css nella quale inserirete creandolo/i il/i vostri file css.
+
+## Bonus
+Partendo dallo stesso HTML, create un secondo file CSS per crearne una versione diversa.
+Si può fare? Alla grande! https://stylestage.dev/
+Questa versione avrà il corpo pagina più stretto e centrato. Occhio all'header il cui background rimane invece a tutta pagina.
