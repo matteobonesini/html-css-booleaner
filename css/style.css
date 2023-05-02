@@ -1,3 +1,4 @@
+/* header */
 header {
     background-color: #2196F3;
     background-image: url('../img/pattern.png');
@@ -56,4 +57,25 @@ thead {
 }
 .white-row {
     background-color: white;
+}
+
+/* footer */
+#footer-title {
+    color: gray;
+}
+#monitor-background {
+    background-image: url('../img/monitor.jpg');
+    margin-bottom: 10px;
+}
+
+#graph-background {
+    background-image: url('../img/graph.jpg');
+}
+.footer-img {
+    height: 150px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
 }
